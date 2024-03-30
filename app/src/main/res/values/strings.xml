@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intent Dasar</string>
+    <string name="one">PINDAH ACTIVITY</string>
+    <string name="two">PINDAH ACTIVITY DENGAN DATA</string>
+    <string name="three">PINDAH ACTIVITY DENGAN OBJECT</string>
+    <string name="four">OPEN GALLERY</string>
+    <string name="five">PINDAH ACTIVITY UNTUK RESULT</string>
+    <string name="dataMove">Data diterima</string>
+    <string name="object">Object</string>
+    <string name="message">Send a message</string>
+    <string name="send">SEND</string>
+    <string name="result">Result</string>
+    <string name="title_activity_scrolling1">ScrollingActivity1</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+</resources>
